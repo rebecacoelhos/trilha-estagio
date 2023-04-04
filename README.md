@@ -11,13 +11,13 @@
 - [ ] 1.3 - CSS 
   * 1.3.1 - CSS Grid - Tópico com exercício 
   * 1.3.2 - CSS Flexbox - Tópico com exercício 
-- [ ] 1.4 - JavaScript 
+- [X] 1.4 - JavaScript 
   * 1.4.1 - JavaScript - Calculadora - Tópico com exercício 
 
 ### Exercícios do módulo 1
 - [ ] [Exercício 1] - CSS Grid feito na site Grid Garden.
 - [ ] [Exercício 2] - CSS Flexbox feito no site Flexbox Froggy.
-- [ ] [Exercício 3] - Calculadora
+- [X] [Exercício 3] - Calculadora
 
 ---
 > ## **Módulo 2**
