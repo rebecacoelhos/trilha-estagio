@@ -1,25 +1,109 @@
+/* Nível 1 */ 
+#pond {
+  justify-content: flex-end;
+}
+/* Nível 2 */ 
+#pond {
+  justify-content: center;
+}
+/* Nível 3 */ 
+#pond {
+  justify-content: space-around;
+}
 /* Nível 4 */ 
+#pond {
+  justify-content: space-between;
+}
 /* Nível 5 */ 
+#pond {
+  align-items: flex-end;
+}
 /* Nível 6 */ 
+#pond {
+  align-items: center;
+  justify-content: center;
+}
 /* Nível 7 */  
+#pond {
+  justify-content: space-around;
+  align-items: flex-end
+}
 /* Nível 8 */ 
+#pond {
+  flex-direction: row-reverse;
+}
 /* Nível 9 */ 
+#pond {
+  flex-direction: column;
+}
 /* Nível 10 */ 
-/* Nível 11 */ 
-/* Nível 12 */ 
-/* Nível 13 */ 
+#pond {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+/* Nível 11 */
+#pond {
+  flex-direction: column;
+    ustify-content: flex-end;
+} 
+/* Nível 12 */
+#pond {
+  flex-direction: column-reverse;
+  justify-content: space-between;
+} 
+/* Nível 13 */
+#pond {
+  flex-direction: row-reverse;
+  justify-content: center;   
+  align-items: flex-end;
+} 
 /* Nível 14 */ 
+.yellow {
+  order: 1;
+}
 /* Nível 15 */ 
+.red {
+  order: -1;
+}
 /* Nível 16 */ 
+.yellow {
+  align-self: flex-end;
+}
 /* Nível 17 */ 
+.yellow {
+  align-self: flex-end;
+  order: 1;
+}
 /* Nível 18 */ 
+#pond {
+  flex-wrap: wrap;
+}
 /* Nível 19 */ 
+#pond {
+  flex-wrap: wrap;
+  flex-direction: column;
+}
 /* Nível 20 */ 
+#pond {
+  flex-flow: column wrap;
+}
 /* Nível 21 */ 
+#pond {
+  align-content: flex-start;
+}
 /* Nível 22 */ 
+#pond {
+  align-content: flex-end;
+}
 /* Nível 23 */ 
+#pond {
+  flex-direction: column-reverse;
+  align-content: center; 
+}
 /* Nível 24 */ 
-/* Nível 25 */ 
-/* Nível 26 */ 
-/* Nível 27 */ 
+#pond {
+  flex-flow:column-reverse wrap-reverse;
+  justify-content:center;
+  align-content:space-between;
+}
 
