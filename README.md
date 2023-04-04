@@ -6,17 +6,17 @@
 > ### **Módulo 1**
 ---
  ### Tópicos estudados
-- [ ] 1.1 - GIT
-- [ ] 1.2 - Markdown
-- [ ] 1.3 - CSS 
+- [X] 1.1 - GIT
+- [X] 1.2 - Markdown
+- [X] 1.3 - CSS 
   * 1.3.1 - CSS Grid - Tópico com exercício 
   * 1.3.2 - CSS Flexbox - Tópico com exercício 
 - [X] 1.4 - JavaScript 
   * 1.4.1 - JavaScript - Calculadora - Tópico com exercício 
 
 ### Exercícios do módulo 1
-- [ ] [Exercício 1] - CSS Grid feito na site Grid Garden.
-- [ ] [Exercício 2] - CSS Flexbox feito no site Flexbox Froggy.
+- [X] [Exercício 1] - CSS Grid feito na site Grid Garden.
+- [X] [Exercício 2] - CSS Flexbox feito no site Flexbox Froggy.
 - [X] [Exercício 3] - Calculadora
 
 ---
