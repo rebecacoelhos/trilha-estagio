@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body-hello {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: burlywood;
+}
+
+.hellos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+
+  background-color: #B0E0E6;
+  box-shadow: 5px 5px 10px rgba(173,216,230, 0.5);
+  gap: 5px;
+  margin-bottom: 20px;
+  max-width: 240px;
+  padding: 20px;
+}
+
+.bold {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.transparent {
+  opacity: 0.2;
+}
+
+.text-gradient {
+  font-weight: bold;
+  background-image: linear-gradient(#FF1493, #B0E0E6);
+  background-clip: text;
+  color: #444;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  height: 100vh;
+}
