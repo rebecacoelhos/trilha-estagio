@@ -24,24 +24,24 @@
 ---
 ### Tópicos estudados
 
-- [ ] 2.1 - React - Tópico com exercício
-- [ ] 2.2 - Metodologias ágeis - Scrum
-- [ ] 2.3 - NPM e Yarn
-- [ ] 2.4 - VTEX Overview
-- [ ] 2.5 - Metodologias ágeis
-- [ ] 2.6 - APIs e Postman
+- [X] 2.1 - React - Tópico com exercício
+- [X 2.2 - Metodologias ágeis - Scrum
+- [X]2.3 - NPM e Yarn
+- [X] 2.4 - VTEX Overview
+- [X] 2.5 - Metodologias ágeis
+- [X] 2.6 - APIs e Postman
   * 2.6.1 - APIs VTEX - Tópico com exercício 
 
 ### Exercícios do módulo 2
-- [ ] [Exercício] - React - desafio prático
-- [ ] [Exercício] - APIs VTEX - Request no Postman
+- [X] [Exercício] - React - desafio prático
+- [X] [Exercício] - APIs VTEX - Request no Postman
 
 ---
 > ## **Módulo 3**
 ---
 ### Tópicos estudados
 
-- [ ] 3.1 - Figma
+- [X] 3.1 - Figma
 - [ ] 3.2 - Onboarding VTEX - Tópico com exercício 
 - [ ] 3.3 - VTEX IO: Conceitos - Tópico com exercício 
 
